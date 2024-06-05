@@ -15,11 +15,17 @@ Anyone can register through the registration page. After successful registration
 After successful login user can do the following things:
 
  Car Booking
+
  View Car booking history
+
  Update His/Her profile
+
  Update his/her password
+
  Post Testimonials
+
  View Testimonials
+
  Logout
 
 **2. Admin:**
@@ -30,15 +36,25 @@ Admin is the superuser of the website whocan manage everything on the website. A
 Admin Fetures:
  
  Admin can create vehicle brand
+
  Manage Vehicle Brands(Edit, Delete)
+
  Post Vehicle Manage vehicle(Edit, Delete)
+
  Manage Booking(Admin can confirm and Cancel Booking)
+
  Manage Testimonials (Active and Inactive)
+
  Manage Contact us Query
+
  Admin Can the details of registered users
+
  Manage Subscribers
+
  Admin Dashboard(Admin can view the count of reg users, total booking, totalsubscribers, total queries etc)
+
  Change Password(admin can change own password)
+
  logout
 
 **3. User:**
