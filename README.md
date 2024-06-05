@@ -62,4 +62,4 @@ Admin Fetures:
 The customers can also use the system to get a car for rent. If users want to book the car theyneed authentication. The customer should create a new account before logging in or he / she canlog into the System with his/her created account. Then he/she can view the available cars in a branch and make a reservation for a Car. And also directly he/she can pay the amount throughhis credit card details.
 
 **Progarmming Language:**
-oop Java.
+OOP Java.
